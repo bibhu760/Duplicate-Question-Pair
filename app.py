@@ -1,5 +1,5 @@
 import streamlit as st
-from statsmodels.graphics.tukeyplot import results
+# from statsmodels.graphics.tukeyplot import results
 
 import helper
 import pickle
